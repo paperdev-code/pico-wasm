@@ -1,0 +1,3 @@
+[submodule "lib/wasm3"]
+	path = lib/wasm3
+	url = https://github.com/paperdev-code/wasm3
